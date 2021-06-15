@@ -14,6 +14,7 @@ Topics covered are as follows:
   - Graphs
   - Breadth-first and Depth-first Search
   - Backtracking
+  - Networking
   - JavaFX, Events
   - Model-View-Controller
   - Dictionaries
